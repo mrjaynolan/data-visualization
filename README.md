@@ -12,28 +12,20 @@ This Jupyter Notebook analyzes the effects of different drug regimens on tumor v
 * Number of Mice in Clean DataFrame: The total number of unique mice in the clean DataFrame is recalculated.
 
 ### 2. Generate Summary Statistics
-/Users/justinnolan/Desktop/Data Science BootCamp/Repos/data-visualization/Pymaceuticals/images/Summary_Statistics_SS1.png
+![Summary_Statistics_SS1](https://github.com/user-attachments/assets/1cacdca5-fe5a-4c67-bba5-bd9448f18c24)
 
-/Users/justinnolan/Desktop/Data Science BootCamp/Repos/data-visualization/Pymaceuticals/images/Summary_Statistics_SS2.png
+![Summary_Statistics_SS2](https://github.com/user-attachments/assets/f5e55619-9be1-4e7b-9fbc-8a703a449340)
 
 ### 3. Create Bar Charts and Pie Charts
-/Users/justinnolan/Desktop/Data Science BootCamp/Repos/data-visualization/Pymaceuticals/images/Bar_and_Pie_Charts_SS1.png
 
-/Users/justinnolan/Desktop/Data Science BootCamp/Repos/data-visualization/Pymaceuticals/images/Bar_and_Pie_Charts_SS2.png
 
-/Users/justinnolan/Desktop/Data Science BootCamp/Repos/data-visualization/Pymaceuticals/images/Bar_and_Pie_Charts_SS3.png
 
-/Users/justinnolan/Desktop/Data Science BootCamp/Repos/data-visualization/Pymaceuticals/images/Bar_and_Pie_Charts_SS4.png
 ### 4. Calculate Quartiles, Find Outlirs, and crate a Box Plot
-/Users/justinnolan/Desktop/Data Science BootCamp/Repos/data-visualization/Pymaceuticals/images/Quartiles_Outliers_and_Boxplots_SS1.png
 
-/Users/justinnolan/Desktop/Data Science BootCamp/Repos/data-visualization/Pymaceuticals/images/Quartiles_Outliers_and_Boxplots_SS2.png
 ### 5. Creat a Line Plot and a Scatter Plot
-/Users/justinnolan/Desktop/Data Science BootCamp/Repos/data-visualization/Pymaceuticals/images/Line_and_Scatter_Plots_SS1.png
 
-/Users/justinnolan/Desktop/Data Science BootCamp/Repos/data-visualization/Pymaceuticals/images/Line_and_Scatter_Plots_SS2.png
 ### 6. Calculate Correlations and Regression
-/Users/justinnolan/Desktop/Data Science BootCamp/Repos/data-visualization/Pymaceuticals/images/Correlation_and_Regression_SS1.png
+
 
 ## Final Analysis
 
