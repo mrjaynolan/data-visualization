@@ -17,15 +17,28 @@ This Jupyter Notebook analyzes the effects of different drug regimens on tumor v
 ![Summary_Statistics_SS2](https://github.com/user-attachments/assets/f5e55619-9be1-4e7b-9fbc-8a703a449340)
 
 ### 3. Create Bar Charts and Pie Charts
+![Bar_and_Pie_Charts_SS1](https://github.com/user-attachments/assets/c6616c75-2cb7-4a99-abd4-e8764821af23)
 
+![Bar_and_Pie_Charts_SS2](https://github.com/user-attachments/assets/cbfc41fe-0eab-4c19-b40b-58d70b3981be)
 
+![Bar_and_Pie_Charts_SS3](https://github.com/user-attachments/assets/934b911f-ac9b-4618-9bbb-6e5fcb588814)
+
+![Bar_and_Pie_Charts_SS4](https://github.com/user-attachments/assets/56de2661-65c9-464c-953b-fc54d81fae0e)
 
 ### 4. Calculate Quartiles, Find Outlirs, and crate a Box Plot
 
-### 5. Creat a Line Plot and a Scatter Plot
+![Quartiles_Outliers_and_Boxplots_SS1](https://github.com/user-attachments/assets/d35d35f6-9b25-41dc-a2a2-3aed8ac7d36c)
+
+![Quartiles_Outliers_and_Boxplots_SS2](https://github.com/user-attachments/assets/419ff0fd-9b1c-4ce5-b57f-56062e21f0d7)
+
+### 5. Create a Line Plot and a Scatter Plot
+![Line_and_Scatter_Plots_SS1](https://github.com/user-attachments/assets/2aad1a2a-ea48-435d-9ee2-848592de26dc)
+
+![Line_and_Scatter_Plots_SS2](https://github.com/user-attachments/assets/0ee30025-e1b8-4f8c-81a1-1094ef320a88)
 
 ### 6. Calculate Correlations and Regression
 
+![Correlation_and_Regression_SS1](https://github.com/user-attachments/assets/a4346028-598c-4466-a19a-be4e081e3ba1)
 
 ## Final Analysis
 
